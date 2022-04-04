@@ -52,7 +52,7 @@ const Main = () => {
       setecpassword("");
       setcpcolor("green");
     } else {
-      setecpassword("password not matched");
+      setecpassword("password doesn't matched");
       setcpcolor("red");
     }
   }
